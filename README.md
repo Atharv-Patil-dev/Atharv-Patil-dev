@@ -3,8 +3,8 @@
 
 ---
 
-🎓 Diploma in Computer Engineering  
-🎓 Degree in BE. AI and ML
+🎓 Diploma in Computer Engineering 
+🎓 Degree in BE. AI and ML   
 📱 Passionate about building Android apps with smart features and clean UI  
 🤖 Exploring AI integration in apps using OpenAI API  
 📈 Goal: Score 95%+ and build impactful tech products  
