@@ -17,6 +17,7 @@
 - 🔧 Tools: Firebase, Git, GitHub, SQLite  
 - 📲 Platforms: Android Studio, XML  
 - 🤖 APIs: OpenAI, Google Maps, UPI Payment Integration
+- 💻 Projects: MHTourism, pronounciation Detector, Age Calculator, Personal Portfolio Website, DevBuddy, Referal Based Reward System.
 
 ---
 
